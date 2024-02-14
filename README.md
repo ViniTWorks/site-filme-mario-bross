@@ -2,5 +2,4 @@
 ## Tecnologias utilizadas
 - HTML5
 - CSS3
-- JavaScript
 - Biblioteca AOS (Animate On Scroll Library)
